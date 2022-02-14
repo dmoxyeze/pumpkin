@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey",
+  "name": "Pumpkin",
+  "greetingText": "I really like this name btw!",
+  "wishText": "Cheers to forever! ;)",
+  "imagePath": "img/pumpkin.jpeg",
+  "text1": "It's our second Valentine together!!! :D",
+  "textInChatBox": "Happy Valentine!! Yeee! Many many happy valentines...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "Pumpkin",
+  "bigTextPart2": "Yellow",
+  "wishHeading": "Cheers to Love!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
